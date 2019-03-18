@@ -1,18 +1,18 @@
 DaivdMax2006 is translating
-100 Best Ubuntu Apps
+100款最好的 Ubuntu 应用程序
 ======
 
-Earlier this year we have published the list of [20 Best Ubuntu Applications for 2018][1] which can be very useful to many users. Now we are almost in the second half of 2018, so today we are going to have a look at 100 best applications for Ubuntu which you will find very useful.
+今年早些时候我们推出了对于许多用户非常有用的 [2018年20款最好的 Ubuntu 应用程序][1] 的清单。 现在我们快到2018的下半年了，所以我们今天来看看100款最好的 Ubuntu 应用程序，你会觉得非常有用。
 
 ![100 Best Ubuntu Apps][2]
 
-Many users who have recently switched to Ubuntu from Microsoft Windows or any other operating system face the dilemma of finding best alternative to application software they have been using for years on their previous OS. Ubuntu has thousands of free to use and open-source application software’s that perform way better than many paid software’s on Windows and other OS.
+最近从 *Microsoft Windows* 或任何别的操作系统切换到 Ubuntu 的许多用户面临着找到能够替代他们多年来在其以前的操作系统上使用的应用软件的困境。 而Ubuntu 拥有数以千计的免费开源软件，其运行方式比 Windows 和其他操作系统上的许多付费软件更好。
 
-Following list features many application software in various categories, so that you can find best application which best matched to your requirements.
+以下列表提供了不同类别的应用程序，于是你就可以找到最合自己胃口的应用程序。
 
-### **1\. Google Chrome Browser**
+### **1\. Google Chrome 浏览器**
 
-Almost all the Linux distributions feature Mozilla Firefox web browser by default and it is a tough competitor to Google Chrome. But Chrome has its own advantages over Firefox like Chrome gives you direct access to your Google account from where you can sync bookmarks, browser history, extensions, etc. from Chrome browser on other operating systems and mobile phones.
+几乎所有 Linux 发行版都默认使用 Mozilla Firefox 浏览器，它是 Google Chrome 的劲敌。但是 Chorome 有它 like Chrome gives you direct access to your Google account from where you can sync bookmarks, browser history, extensions, etc. from Chrome browser on other operating systems and mobile phones.
 
 ![Chrome][3]
 
