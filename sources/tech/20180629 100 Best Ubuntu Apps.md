@@ -12,7 +12,7 @@ DaivdMax2006 is translating
 
 ### **1\. Google Chrome 浏览器**
 
-几乎所有 Linux 发行版都默认使用 Mozilla Firefox 浏览器，它是 Google Chrome 的劲敌。但是 Chorome 有它 like Chrome gives you direct access to your Google account from where you can sync bookmarks, browser history, extensions, etc. from Chrome browser on other operating systems and mobile phones.
+几乎所有 Linux 发行版都默认使用 Mozilla Firefox 浏览器，它是 Google Chrome 的劲敌。但是 Chorome 有它比 Firefox 好的优势：Chrome 让你可以直接访问你的谷歌账户，在那里你可以同步书签、浏览器历史、扩展等等。
 
 ![Chrome][3]
 
