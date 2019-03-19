@@ -12,19 +12,19 @@ DaivdMax2006 is translating
 
 ### **1\. Google Chrome 浏览器**
 
-几乎所有 Linux 发行版都默认使用 Mozilla Firefox 浏览器，它是 Google Chrome 的劲敌。但是 Chorome 有它比 Firefox 好的优势：Chrome 让你可以直接访问你的谷歌账户，在那里你可以同步书签、浏览器历史、扩展等等。
+几乎所有 Linux 发行版都默认使用 Mozilla Firefox 浏览器，它是 Google Chrome 的劲敌。但是 Chrome 有它比 Firefox 好的优势：Chrome 让你可以在手机、平板等移动设备上直接访问你的谷歌账户，在那里你可以同步书签、浏览器历史、扩展等等。
 
 ![Chrome][3]
 
-Google Chrome features up-to-date Flash player for Linux which is not the case with other web browsers on Linux including Mozilla Firefox and Opera web browser. If you continuously use Chrome on Windows then it is best choice to use it on Linux too.
+Chrome 浏览器具有适用于 Linux 的最新版本 Flash 播放器，而其他 Linux 网络浏览器则不是这种情况，包括 Mozilla Firefox 和 Opera 网络浏览器。 如果你经常在 Windows 上使用 Chrome 浏览器的话，那么在 Linux 上这也是最好的选择。
 
 ### 2\. **Steam**
 
-Gaming on Linux is a real deal now, which was a distant dream few years ago. In 2013, Valve announced Steam gaming client for Linux and everything has changed since then. Earlier users were hesitant to switch to Linux from Windows just because they would not be able to play their favourite games on Ubuntu but that is not the case now.
+现在在 Linux 上玩游戏真的很划算，而在几年前这还是个遥远的梦想。2013年, Valve 发布 Linux 平台上的 Steam 游戏客户端，从那时起，一切都改变了—— 早期的用户不愿意从 Windows 转到 Linux 只是因为他们不能在 Ubuntu 上玩他们喜欢的游戏，但现在的情况已经不再是当时的情景了。
 
 ![Steam][4]
 
-Some users might find installing Steam on Linux tricky but it worth all your efforts as thousands of Steam games are available for Linux. Some popular high-end games like Counter Strike: Global Offensive, Hitman, Dota 2 are available for Linux, you just need to make sure you have minimum hardware required to play these games.
+一些用户可能会觉得在 Linux 上安装 Steam 很棘手，但是因为成千上万的 Steam 游戏都适用于 Linux ，所以这值得你付出全部努力。许多高端游戏比如反恐精英：全球攻势 、杀手 、守卫遗迹2 都支持 Linux 版本，你只需要确保你拥有玩这些游戏所需的最低硬件。
 
 ```
 $ sudo add-apt-repository multiverse
@@ -34,21 +34,21 @@ $ sudo apt-get update
 $ sudo apt-get install steam
 ```
 
-### **3\. WordPress Desktop Client**
+### **3\. WordPress 桌面客户端**
 
-Yes you read it correct, WordPress has its dedicated desktop client for Ubuntu from where you can manage your WordPress sites. You can also write and design separately on desktop client without need for switching browser tabs.
+是的你没有读错，WordPress 有专门用于 Ubuntu 的桌面客户端，你可以在其中管理 WordPress 网站。 你也**可以在不切换标签页的前提下在桌面客户端中单独设计自己的网站**。
 
 ![][5]
 
-If you have websites backed by WordPress then this desktop client is must have application for you as you can also keep track of all the WordPress notifications in one single window. You can also check stats for performance of posts on website. Desktop client is available in Ubuntu Software Centre from where you can download and install it.
+如果你有 WordPress 支持的网站，那么这个桌面客户端将会为你提供应用程序，这样你也可以在一个窗口中跟踪所有的 WordPress 通知。 你还可以查看网站上帖子的统计数据。 桌面客户端已经可以在 Ubuntu 的软件中心找到了，你可以从那儿下载并安装。
 
-### **4\. VLC Media Player**
+### **4\. VLC 媒体播放器**
 
-VLC is a very popular cross-platform and open-source media player which is also available for Ubuntu. What makes VLC a best media player is that it can play videos in all the Audio and Video formats available on planet without any issue.
+VLC 是一个非常受欢迎的跨平台和开源媒体播放器，也可用于 Ubuntu。 VLC 成为最佳的媒体播放器的原因在于**它可以播放全球所有包含音频和视频格式的媒体文件而不会出现任何问题**。
 
 ![][6]
 
-VLC has a slick user interface which is very easy to use and apart from that it offers lot of features such as online video streaming, audio and video customization, etc.
+VLC **具有灵活的用户界面，非常易于使用**。除此之外，它还提供许多功能，如在线视频流、音频和视频定制等。
 
 ```
 $ sudo add-apt-repository ppa:videolan/master-daily
@@ -56,13 +56,13 @@ $ sudo apt update
 $ sudo apt-get install vlc qtwayland5
 ```
 
-### **5\. Atom Text Editor**
+### **5\. Atom 文本编辑器**
 
-Having developed by Github, Atom is a free and open-source text editor which can also be used as Integrated Development Environment (IDE) for coding and editing in major programming languages. Atom developers claim it to be a completely hackable text editor for 21st Century.
+由 Github 开发，Atom 是一个免费的开源文本编辑器，也可以用作集成开发环境（IDE）以及用于主要编程语言的编程。 Atom 开发人员声称它是一个面向21世纪的完全可编程的文本编辑器。
 
 ![][7]
 
-Atom Text Editor has one of the best user interfaces and it is a feature rich text editor with offerings like auto-completion, syntax highlighting and support of extensions and plug-ins.
+Atom 文本编辑器拥有最好的用户界面之一，它是**一个功能丰富的文本编辑器，具有自动完成、语法高亮显示和支持扩展和插件等功能**。
 
 ```
 $ sudo add-apt-repository ppa:webupd8team/atom
@@ -70,13 +70,13 @@ $ sudo apt-get update
 $ sudo apt-get install atom
 ```
 
-### **6\. GIMP Photo Editor**
+### **6\. GIMP 图像处理程序**
 
-GIMP (GNU Image Manipulation Programme) is free and open-source photo editor for Ubuntu. It is arguably a best alternative to Adobe Photoshop on Windows. If you have been continuously using Adobe Photoshop and finding it difficult to get used to GIMP, then you can customize GIMP to look very similar to Photoshop.
+GIMP (GNU 图像处理程序) 是一款 Ubuntu 的免费开源照片编辑器。 这大概是 Windows 的 Adobe Photoshop 最好的替代品。 如果你一直在使用 Adobe Photoshop 并且难以习惯 GIMP，那么你可以自定义 GIMP 以使其与 Photoshop 的操作更加相似。
 
 ![][8]
 
-GIMP is a feature rich Photo editor and you can always use additional features by installing extensions and plug-ins anytime.
+GIMP 是一个功能丰富的照片编辑器，您随时都可以通过安装扩展和插件来使用更多的功能。
 
 ```
 $ sudo apt-get install gimp
