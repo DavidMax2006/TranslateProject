@@ -1067,7 +1067,7 @@ via: https://linuxhint.com/100_best_ubuntu_apps/
 
 作者：[Swapnil Tirthakar][a]
 选题：[lujun9972](https://github.com/lujun9972)
-译者：[译者ID](https://github.com/译者ID)
+译者：[DavidMax2006](https://github.com/DavidMax2006)
 校对：[校对者ID](https://github.com/校对者ID)
 
 本文由 [LCTT](https://github.com/LCTT/TranslateProject) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
