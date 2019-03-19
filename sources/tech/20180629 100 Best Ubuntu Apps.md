@@ -82,13 +82,13 @@ GIMP 是一个功能丰富的照片编辑器，您随时都可以通过安装扩
 $ sudo apt-get install gimp
 ```
 
-### **7\. Google Play Music Desktop Player**
+### **7\. Google Play 桌面音乐播放器**
 
-Google Play Music Desktop Player is an open-source music player which is replica of Google Play Music or you can say it’s better than that. Google always lacked a desktop music client but this third-party app fills the void perfectly.
+Google Play 桌面音乐播放器是一个开源音乐播放器，它是 Google Play 音乐的复制品，或者你可以说它比这更好。谷歌一直缺少桌面音乐客户端，但这个第三方应用程序完美地填补了空缺。
 
 ![][9]
 
-Like you can see in above screenshot, its interface is second to none in terms of look and feel. You just need to sign in into Google account and then it will import all your music and favorites into this desktop client. You can download installation files from its official [website][10] and install it using Software Center.
+正如你在上面的截图中所看到的，它的界面在外观和感觉上都是首屈一指的。您只需要登录到谷歌帐户，然后它将导入您所有的音乐和收藏夹到这个桌面客户端。Y你可以从官方网站下载安装文件 [website][10] 并使用软件中心安装。
 
 ### **8\. Franz**
 
