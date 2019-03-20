@@ -92,39 +92,37 @@ Google Play 桌面音乐播放器是一个开源音乐播放器，它是 Google 
 
 ### **8\. Franz**
 
-Franz 是一个即时消息客户端，它将聊天和消息服务整合到一个应用程序中。 它是一个现代的即时消息平台并且支持 Facebook Messenger, WhatsApp, Telegram, HipChat, WeChat, Google Hangouts, Skype integration under one single application.
+Franz 是一个即时消息客户端，它将聊天和消息服务整合到一个应用程序中。 它是一个现代的即时消息平台并且将支持脸书、WhatsApp、Telegram、HipChat、微信, Google Hangouts、Skype 集成到一个应用程序中。
 
 ![][11]
 
-Franz is complete messaging platform which you can use for business as well to manage mass customer service. To install Franz you need to download installation package from its [website][12] and open it using Software Center.
+Franz 是一个完整的信息平台，您也可以使用它来管理大量的客户服务。 安装 Franz 你需要从[它的网站][12]上下载安装包并且用软件中心打开。
 
 ### **9\. Synaptic 包管理器**
 
-Synaptic Package Manager is one of the must have tools on Ubuntu because it works for graphical interface for ‘apt-get’ command which we usually use to install apps on Ubuntu using Terminal. It gives tough competition to default app stores on various Linux distros.
+Synaptic 包管理器是 Ubuntu 上必备的工具之一，因为它适用于 `apt-get` 命令的图形界面，我们通常使用该命令在 Ubuntu 上使用终端安装应用程序，它给各种 Linux 发行版上的默认应用程序商店带来了激烈的竞争。
 
 ![][13]
 
-Synaptic comes with very simple user interface which is very fast and easy to use as compared to other app stores. On left-hand side you can browse various apps in different categories from where you can easily install and uninstall apps.
-
+Synaptic 拥有**非常简单的用户界面，与其他应用程序商店相比，它非常快速和易于使用**——在左侧，您可以浏览各种不同类别的应用程序，在那里您可以轻松地安装和卸载应用程序。
 ```
 $ sudo apt-get install synaptic
 ```
 
 ### **10\. Skype**
 
-Skype is a very popular cross-platform video calling application which is now also available for Linux as a Snap app. Skype is an instant messaging application which offers features like voice and video calls, desktop screen sharing, etc.
+Skype 是一个非常受欢迎的跨平台视频通话应用程序，现在也可以在 Linux 上作为 *Snap* 应用程序使用。 Skype 是一个即时通讯应用程序，提供语音和视频通话、桌面屏幕共享等功能。
 
 ![][14]
 
-Skype has an excellent user interface which very similar to desktop client on Windows and it is very easy to use. It could be very useful app for many switchers from Windows.
-
+Skype 有一个很好的用户界面，非常类似于 Windows 上的桌面客户端，使用起来非常方便。对于从 Windows 切换过来的用户来说这款应用程序可能会很有帮助。
 ```
 $ sudo snap install skype
 ```
 
-### **13\. VirtualBox**
+### **11\. VirtualBox**
 
-VirtualBox is a cross-platform virtualization software application developed by Oracle Corporation. If you love trying out new operating systems then VirtualBox is the must have Ubuntu application for you. You can tryout Linux, Mac inside Windows Operating System or Windows and Mac inside Linux.
+VirtualBox 是由 Oracle 公司开发的跨平台虚拟化软件。 如果您喜欢尝试新鲜的操作系统，那么VirtualBox是您必须拥有的Ubuntu应用程序。你可以在Windows操作系统中试用Linux、Mac，或者在Linux中试用Windows和Mac。
 
 ![][15]
 
