@@ -92,13 +92,13 @@ Google Play 桌面音乐播放器是一个开源音乐播放器，它是 Google 
 
 ### **8\. Franz**
 
-Franz is an instant messaging client that combines chat and messaging services into one application. It is one of the modern instant messaging platforms and it supports Facebook Messenger, WhatsApp, Telegram, HipChat, WeChat, Google Hangouts, Skype integration under one single application.
+Franz 是一个即时消息客户端，它将聊天和消息服务整合到一个应用程序中。 它是一个现代的即时消息平台并且支持 Facebook Messenger, WhatsApp, Telegram, HipChat, WeChat, Google Hangouts, Skype integration under one single application.
 
 ![][11]
 
 Franz is complete messaging platform which you can use for business as well to manage mass customer service. To install Franz you need to download installation package from its [website][12] and open it using Software Center.
 
-### **9\. Synaptic Package Manager**
+### **9\. Synaptic 包管理器**
 
 Synaptic Package Manager is one of the must have tools on Ubuntu because it works for graphical interface for ‘apt-get’ command which we usually use to install apps on Ubuntu using Terminal. It gives tough competition to default app stores on various Linux distros.
 
