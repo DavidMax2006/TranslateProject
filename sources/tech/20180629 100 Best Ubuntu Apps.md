@@ -154,19 +154,19 @@ $ sudo apt-get install ubuntu-cleaner
 
 ### 14\. Visual Studio Code
 
-Visual Studio Code is code editor which you will find very similar to Atom Text Editor and Sublime Text if you have already used them. Visual Studio Code proves to be very good educational tool as it explains everything from HTML tags to syntax in programming.
+Visual Studio Code 是一款代码编辑器，如果您已经使用过 *Atom Text Editor* 和 *Sublime Text* ，您会发现它们非常类似。 Visual Studio Code 由于解释了从 HTML 标签到编程语法的一切，被证明是一款**比较好的有教育意义的工具**。
 
 ![][18]
 
-Visual Studio comes with Git integration out of the box and it has excellent user interface which you will find very similar to likes of Atom Text Editor and Sublime Text. You can download and install it from Ubuntu Software Center.
+Visual Studio Code 带有开箱即用的 Git 集成，而且它具有出色的用户界面，你会发现它非常相似于 *Atom Text Editor* 和 *Sublime Text* 。 你可以从 Ubuntu 的软件中心上下载并安装它。
 
 ### **15\. Corebird**
 
-If you are looking for desktop client where you can use your Twitter then Corebird Twitter Client is the app you are looking for. It is arguably best Twitter client available for Linux distros and it offers features very similar to Twitter app on your mobile phone.
+如果你要寻找一个可以使用自己的推特账户的桌面客户端，那么 Corebired 将会是你最佳的选择。 它可以说是 **Linux 发行版中最好的推特客户端，并且它提供了与您的手机上的推特应用程序非常相似的功能**。
 
 ![][19]
 
-Corebird Twitter Client also gives notifications whenever someone likes and retweets your tweet or messages you. You can also add multiple Twitter accounts on this client.
+Corebird 推特客户端还会在有人喜欢和转发您的推文或消息时发出通知。您还可以在此客户端上添加多个推特帐户。
 
 ```
 $ sudo snap install corebird
@@ -174,7 +174,7 @@ $ sudo snap install corebird
 
 ### **16\. Pixbuf**
 
-Pixbuf is a desktop client from Pixbuf photo community hub which lets you upload, share and sale your photos. It supports photo sharing to social media networks like Facebook, Pinterest, Instagram, Twitter, etc. and photography services including Flickr, 500px and Youpic.
+Pixbuf 是一个 Pixbuf 照片社区中心的桌面客户端，可供你上传、分享以及销售自己的照片。它支持在社交媒体网络上分享图片，比如脸书、Pinterest 、Instagram 以及推特等等，以及 Flickr 、500px 和 Youpic 等摄影服务。
 
 ![][20]
 
