@@ -122,31 +122,29 @@ $ sudo snap install skype
 
 ### **11\. VirtualBox**
 
-VirtualBox 是由 Oracle 公司开发的跨平台虚拟化软件。 如果您喜欢尝试新鲜的操作系统，那么VirtualBox是您必须拥有的Ubuntu应用程序。你可以在Windows操作系统中试用Linux、Mac，或者在Linux中试用Windows和Mac。
+VirtualBox 是由 Oracle 公司开发的跨平台虚拟化软件。 如果您喜欢尝试新鲜的操作系统，那么 VirtualBox 是您必须拥有的 Ubuntu 应用程序。你可以在Windows 操作系统中调试 Linux 、Mac ，或者在 Linux 中调试 Windows 和 Mac 。
 
 ![][15]
 
-What VB actually does is it lets you run guest operating system on host operating system virtually. It creates virtual hard drive and installs guest OS on it. You can download and install VB directly from Ubuntu Software Center.
+VirtualBox 实际上做的是让您可以在主机操作系统上虚拟化地运行来宾操作系统。它创建虚拟硬盘并在上面安装客户操作系统。您可以直接从 Ubuntu 软件中心下载并安装 VirtualBox 。
+### **12\. Unity 微调工具**
 
-### **12\. Unity Tweak Tool**
-
-Unity Tweak Tool (Gnome Tweak Tool) is must have tool for every Linux user because it gives user ability to customize desktop according to your need. You can try new GTK themes, set up desktop hot corners, customize icon set, tweak unity launcher, etc.
+Unity 微调工具（ Gnome 微调工具 ）是每个 Linux 用户都必须拥有的工具，因为它**允许用户根据自己的需要定制桌面**。你可以尝试新的GTK主题、设置桌面热点、自定义图标集、调整 unity 启动器等等。
 
 ![][16]
 
-Unity Tweak Tool can be very useful to user as it has everything covered right from the basic to advanced configurations.
+Unity 微调工具对用户非常有用，因为它涵盖了从基本配置到高级配置的所有内容。
 
 ```
 $ sudo apt-get install unity-tweak-tool
 ```
 
-### **13\. Ubuntu Cleaner**
+### **13\. Ubuntu 清洁器**
 
-Ubuntu Cleaner is a system maintenance tool especially designed to remove packages that are no longer useful, remove unnecessary apps and clean-up browser caches. Ubuntu Cleaner has very simple user interface which is very easy to use.
-
+Ubuntu 清洁器是一个系统维护工具，专门用来**删除不再有用的软件包，删除不必要的应用程序和清理浏览器缓存**。 Ubuntu 清洁器有**非常简单的用户界面，非常容易使用**。
 ![][17]
 
-Ubuntu Cleaner is one of the best alternatives to BleachBit which is also a decent cleaning tool available for Linux distros.
+Ubuntu 清洁器是 *BleachBit* 的最佳替代品之一， *BleachBit* 对于 Linux 发行版来说也是一个不错的清洁工具。
 
 ```
 $ sudo add-apt-repository ppa:gerardpuig/ppa
