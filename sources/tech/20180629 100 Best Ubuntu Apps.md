@@ -92,7 +92,7 @@ Google Play 桌面音乐播放器是一个开源音乐播放器，它是 Google 
 
 ### **8\. Franz**
 
-Franz 是一个即时消息客户端，它将聊天和消息服务整合到一个应用程序中。 它是一个现代的即时消息平台并且将支持脸书、WhatsApp、Telegram、HipChat、微信, Google Hangouts、Skype 集成到一个应用程序中。
+Franz 是一个即时消息客户端，它将聊天和消息服务整合到一个应用程序中。 它是一个现代的即时消息平台并且将支持脸书、WhatsApp、Telegram、HipChat、微信、 Google Hangouts、Skype 集成到一个应用程序中。
 
 ![][11]
 
@@ -178,15 +178,15 @@ Pixbuf 是一个 Pixbuf 照片社区中心的桌面客户端，可供你上传�
 
 ![][20]
 
-Pixbuf offers features like analytics which gives you stats about clicks, retweets, repins on your photo, scheduled posts, dedicated iOS extension. It also has mobile app, so that you can always be connected with your Pixbuf account from anywhere. Pixbuf is available for download in Ubuntu Software Center as a snap package.
+Pixbuf 提供了分析等功能，可以让你统计点击量、转发量、照片的回复、预定的帖子以及专用的iOS扩展。它也有移动端，所以你可以一直在各处与自己的 Pixbuf 账户保持连接。Pixbuf 可以在 Ubuntu 软件中心下载为一个 snap 包。
 
-### **17\. Clementine Music Player**
+### **17\. Clementine 音乐播放器**
 
-Clementine is a cross-platform music player and a good competitor to Rhythmbox which is default music player on Ubuntu. It is fast and easy to use music player thanks to its user friendly interface. It supports audio playback in all the major audio file formats.
+Clementine 是一个跨平台的音乐播放器，是 *Rhythmbox* 的有力竞争者，而 *Rhythmbox* 是 Ubuntu 上的默认音乐播放器。由于其用户友好的界面，它非常快速和易于使用。它支持所有主要音频文件格式的音频播放。
 
 ![][21]
 
-Apart from playing music from local library you can also listen to online radio from Spotify, SKY.fm, Soundcloud, etc. It also offers other features like smart and dynamic playlists, syncing music from cloud storages like Dropbox, Google Drive, etc.
+除了播放本地库里的音乐，你还可以收听 Spotify 、SKY 电台的在线广播、Soundcloud 等等。它还提供其他功能如智能和动态播放列表、同步音乐从云存储如 *Dropbox* ，谷歌驱动器等。
 
 ```
 $ sudo add-apt-repository ppa:me-davidsansome/clementine 
@@ -196,19 +196,19 @@ $ sudo apt-get install clementine
 
 ### **18\. Blender**
 
-Blender is free and open-source 3D creation application software which you can use to create 3D printed models, animated films, video games, etc. It comes with integrated game engine out of the box which you can use to develop and test video games.
+Blender 是一款免费开源的3D制作应用软件，可以用来制作3D打印模型、动画电影、视频游戏等。它**带有开箱即用的集成游戏引擎**，你可以使用它来开发和测试视频游戏。
 
 ![blender][22]
 
-Blender has catchy user interface which is easy to use and it includes features like built-in render engine, digital sculpturing, simulation tool, animation tools and many more. It is one of the best applications you will ever find for Ubuntu considering it’s free and features it offers.
+Blender 有吸引人的用户界面，易于使用，包括内置的渲染引擎、数字雕刻、仿真工具、动画工具等功能。考虑到 Ubuntu 的免费和特性，它是你能找到的最好的 Ubuntu 应用程序之一。
 
 ### **19\. Audacity**
 
-Audacity is an open-source audio editing application which you can use to record, edit audio files. You can record audio from various inputs like microphone, electric guitar, etc. It also gives ability to edit and trim audio clips according to your need.
+Audacity 是一个开源的音频编辑应用程序，你可以使用它来记录、编辑音频文件并且可以录制麦克风，电吉他等各种输入的音频。它还可以根据你的需要来编辑和剪辑音频。
 
 ![][23]
 
-Recently Audacity released with new features for Ubuntu which includes theme improvements, zoom toggle command, etc. Apart from these it offers features like various audio effects including noise reduction and many more.
+最近 Audacity 发布了 Ubuntu 版本的新特性，包括主题改进、缩放切换命令等。 除了这些，它还提供了各种音频效果，包括降噪以及更多的功能。
 
 ```
 $ sudo add-apt-repository ppa:ubuntuhandbook1/audacity
@@ -218,11 +218,11 @@ $ sudo apt-get install audacity
 
 ### **20\. Vim**
 
-Vim is an Integrated Development Environment which you can use as standalone application or command line interface for programming in various major programming languages like Python.
+Vim 是一个集成的开发环境，您可以将其作为独立的应用程序或命令行接口来使用各种主要编程语言（如 Python ）进行编程。
 
 ![][24]
 
-Most of the programmers prefer coding in Vim because it is fast and highly customizable IDE. Initially you might find it difficult to use but you will quickly get used to it.
+大多数程序员更喜欢用 Vim 编程，因为它是一个快速且高度可定制的IDE。一开始你可能会发现用起来十分困难但你很快会习惯它的。
 
 ```
 $ sudo apt-get install vim
