@@ -230,11 +230,11 @@ $ sudo apt-get install vim
 
 ### **21\. Inkscape**
 
-Inkscape is an open-source and cross-platform vector graphics editor which you will find very much similar to Corel Draw and Adobe Illustrator. Using it you can create and edit vector graphics such as charts, logos, diagrams, illustrations, etc.
+Inkscape 是一个开源跨平台矢量图形编辑器，你会发现它与 *Corel Draw* 和 *Adobe Illustrator* 非常相似。使用它，你可以创建和编辑矢量图形如图表、徽标、插图等。
 
 ![][25]
 
-Inkscape uses Scalable Vector Graphics (SVG) and an open XML-based W3C standard as a primary format. It supports various formats including JPEG, PNG, GIF, PDF, AI (Adobe Illustrator Format), VSD, etc.
+Inkscape 使用可伸缩矢量图形（SVG）和开放的基于 XML 的 W3C 标准作为主要格式。它支持各种格式，包括 JPEG 、PNG 、GIF 、PDF 、AI （ Adobe Illustrator 格式）、VSD等。
 
 ```
 $ sudo add-apt-repository ppa:inkscape.dev/stable
@@ -244,11 +244,11 @@ $ sudo apt-get install inkscape
 
 ### **22\. Shotcut**
 
-Shotcut is a free, open-source and cross-platform video editing application developed by Meltytech, LLC on the MLT Multimedia Framework. It is one of the most powerful video editors you will ever find for Linux distros as it supports all the major audio, video and image formats.
+Shotcut 是 Meltytech 、LLC 在 MLT 多媒体框架上开发的一个免费、开源、跨平台的视频编辑应用程序。它是 Linux 发行版中最强大的视频编辑器之一，因为它支持所有主要的音频、视频和图像格式。
 
 ![][26]
 
-It gives ability to edit multiple tracks with various file formats using non-linear video editing. It also comes with support for 4K video resolutions and features like various audio and video filters, tone generator, audio mixing and many others.
+它提供了使用非线性视频编辑用各种文件格式编辑多个曲目的能力。它还支持4K视频分辨率，并具有各种音频和视频过滤器、音频发生器、音频混合等功能。
 
 ```
 snap install shotcut -- classic
